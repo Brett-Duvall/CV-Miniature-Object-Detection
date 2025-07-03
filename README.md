@@ -1,4 +1,9 @@
+![Screenshot 2025-07-03 191303](https://github.com/user-attachments/assets/2094aa72-2458-4beb-bab2-e9880bf86be2)
+
 # Miniature-Object-Detection
+
+Object detection of WarHammer 40k minatures using custom annotated 17000 image set.
+
 
 Copy_Files – This was used to copy 1/9th of the images of the second set (all miniatures together).  7000 images was too much to annotate.
 Eval – Where I was planning to put a bunch of evaluations but just used the Yolo and MLFlow metrics instead.
