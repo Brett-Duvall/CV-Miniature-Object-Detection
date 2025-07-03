@@ -1,4 +1,4 @@
-![Screenshot 2025-07-03 191303](https://github.com/user-attachments/assets/2094aa72-2458-4beb-bab2-e9880bf86be2)
+![Screenshot 2025-07-03 191303](https://github.com/user-attachments/assets/1fb0d993-0979-489e-b039-67e8967ee2ea)
 
 # Miniature-Object-Detection
 
