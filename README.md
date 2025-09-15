@@ -14,7 +14,7 @@ Extract_Frames_and_labelImg – Used to extract image frames from each video and
 
 Training:
 
-Mlflow server – This is used to start the MLFlow server separately from the training notebook.  Once it runs it never moves to the next block so I separated it.
+Mlflow server – This is used to start the MLFlow server separately from the training notebook.  
 
 Train – used for yolo training.
 
@@ -22,7 +22,6 @@ Train_augmentations_callbacks – Was used for custom augmentations and MLFlow c
 
 Train_test_split – yolosplitter to split up the images/labels into 70% train, 20% test, and 10% validation groups.
 
-Eval – Where I was planning to put a bunch of evaluations but just used the Yolo and MLFlow metrics instead.
 
 
 Inference:
